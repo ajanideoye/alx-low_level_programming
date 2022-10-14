@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- *Program to display on statdard output using printf function
- *
+ * main - Entry point
+ * Program to display on statdard output using printf function
+ * Return: Always 0 (Success)
  **/
 int main(void)
 {
